@@ -32,7 +32,7 @@
 </td><td valign="top" width="50%">
   
   
-  #🤝 Социальные сети:
+  🤝 Социальные сети:
   
   <div id="badges"
     <a href="https://t.me/marzanmars" target="_blank">
