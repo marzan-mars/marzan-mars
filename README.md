@@ -17,7 +17,7 @@
 <br/>  
 
 
-## Rapidfire  
+## Info about me  
 <table><tr><td valign="top" width="50%">
 
 - 📍I’m From Belarus (Brest)  
