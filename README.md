@@ -31,7 +31,14 @@
 
 </td><td valign="top" width="50%">
 
-gfhfgh  
+  <div id="badges"
+    <a href="https://t.me/marzanmars" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="[https://vk.com/f1ll_zzz](https://vk.com/marzanmars)" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
 
 </td></tr></table>  
