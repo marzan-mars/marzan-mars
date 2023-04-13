@@ -31,7 +31,7 @@
 
 </td><td valign="top" width="50%">
   
-  Constantly learning and trying to get better every day 🤝
+  🤝 Constantly learning and trying to get better every day 🤝
 
 </td></tr></table>  
 
